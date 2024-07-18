@@ -33,11 +33,11 @@ footer div {
 }
   
 footer h2 {
-    font-size: 1.4rem;
+    font-size: 40px;
 }
   
 footer h1 {
-    font-size: 0.9rem;
+    font-size: 25px;
     font-weight: 200;
 }
   
@@ -135,6 +135,10 @@ footer button {
 .arrowBack{
     padding-left: 10px;
     margin-left: 20px;
+}
+
+.sideBar button:hover{
+    opacity: 0.9;
 }
 
 .exhibit{

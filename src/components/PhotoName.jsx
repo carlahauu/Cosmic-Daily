@@ -1,7 +1,10 @@
 import React from 'react'
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 
-export default function PhotoName() {
+export default function PhotoName(props) {
+
+    const {showModal, handleToggleModal} = props
+
   return (
     <footer>
         <div>
@@ -9,7 +12,7 @@ export default function PhotoName() {
             <h1>APOD Project</h1>
         </div>
         <div>
-        <button><HelpOutlineIcon /></button>
+        <button onClick={handleToggleModal}><HelpOutlineIcon /></button>
         </div>
     </footer>
   )
