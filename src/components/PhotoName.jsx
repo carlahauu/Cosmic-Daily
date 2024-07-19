@@ -11,8 +11,8 @@ export default function PhotoName(props) {
             <h2>{data?.title}</h2>
             <h1>{data?.copyright} - {data?.date}</h1>
         </div>
-        <div>
-        <button onClick={handleToggleModal}><HelpOutlineIcon /></button>
+        <div className='helpOut'>
+        <button onClick={handleToggleModal}><HelpOutlineIcon fontSize='large' /><h3>Click for Info!</h3></button>
         </div>
     </footer>
   )

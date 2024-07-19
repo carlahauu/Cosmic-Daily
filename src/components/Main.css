@@ -170,6 +170,16 @@ footer button {
     color: #4ba0ea;
 }
 
+.sideBarDescriptionTitle{
+    opacity: 60%;
+    margin-top: 5px;
+    letter-spacing: 1px;
+}
+
+.helpOut h3{
+    font-size: 18px;
+}
+
 .settingsIcon{
     opacity: 0.8;
     animation: spin 1s linear infinite;
@@ -214,7 +224,11 @@ footer button {
     }
 
     footer{
-        margin-left: 80px;
+        margin-left: 65px;
+    }
+
+    footer h2{
+        font-size: 28px;
     }
 
     .loadingState{

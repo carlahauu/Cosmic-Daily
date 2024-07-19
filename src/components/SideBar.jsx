@@ -12,7 +12,7 @@ export default function SideBar(props) {
         <button onClick={handleToggleModal} className='arrowBack'><ArrowBackIosIcon /></button>
             <div className='sideBarContent'>
                 <h2>{data?.title}</h2>
-                <p>Description</p>
+                <p className='sideBarDescriptionTitle'>Description</p>
                 <p>{data?.explanation}</p>
             </div>
         </div>
