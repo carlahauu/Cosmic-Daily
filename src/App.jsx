@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="App">
       <div className="app_body">
-        <Navbar />
         <Routes>
           <Route path="/" element={<Exhibit />} />
         </Routes>
