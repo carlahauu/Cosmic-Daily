@@ -156,6 +156,14 @@ footer button {
     gap: 20px;
 }
 
+.navbarMenu a{
+    color: white;
+}
+
+.navbarMenu a:hover{
+    color: #4ba0ea;
+}
+
 .settingsIcon{
     opacity: 0.8;
     animation: spin 1s linear infinite;

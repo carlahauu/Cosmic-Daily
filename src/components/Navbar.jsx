@@ -7,7 +7,7 @@ export default function Navbar() {
     <div className='navbar'>
         <a className='navbarTitle'>Cosmic Exhibit</a>
         <ul className='navbarMenu'>
-            <li className='githubIcon'><a><GitHubIcon /></a></li>
+            <li className='githubIcon'><a href='https://github.com/carlahauu/Cosmic-Exhibit'><GitHubIcon /></a></li>
             <li><a>About</a></li>
             <li><a>Contact</a></li>
         </ul>
