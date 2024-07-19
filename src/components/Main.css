@@ -61,8 +61,10 @@ footer button {
 }
 
 .navbarTitle{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
+    color: white;
+    text-decoration: none;
 }
 
 .navbarMenu{
@@ -164,6 +166,10 @@ footer button {
     color: #4ba0ea;
 }
 
+.navbarTitle span{
+    color: #4ba0ea;
+}
+
 .settingsIcon{
     opacity: 0.8;
     animation: spin 1s linear infinite;
@@ -209,6 +215,10 @@ footer button {
 
     footer{
         margin-left: 80px;
+    }
+
+    .loadingState{
+        width: 200%;
     }
 
   }
