@@ -5,7 +5,7 @@ import './Main.css'
 export default function Navbar() {
   return (
     <div className='navbar'>
-        <a className='navbarTitle'>Cosmic Exhibit</a>
+        <a className='navbarTitle'>Cosmic Daily</a>
         <ul className='navbarMenu'>
             <li className='githubIcon'><a href='https://github.com/carlahauu/Cosmic-Exhibit'><GitHubIcon /></a></li>
             <li><a>About</a></li>
