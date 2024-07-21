@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import Exhibit from './components/Exhibit';
-import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 
 function App() {
 
