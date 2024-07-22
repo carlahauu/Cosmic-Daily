@@ -29,5 +29,4 @@ I learned how to use the NASA APOD API. This was my first time using the NASA AP
 
 ## What's next for Cosmic Daily 
 1. I will be adding a landing page for this site. 
-2. I will be deploying it soon through Netlify. 
-3. I will add more features to provide users with more opportunities to learn. 
+2. I will add more features to provide users with more opportunities to learn. 
