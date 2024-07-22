@@ -3,7 +3,9 @@
 ![Cosmic Daily](https://github.com/user-attachments/assets/fdc783be-972c-46d9-899d-7d6733ef9241)
 
 Demo Video: https://youtu.be/i8_CCLWsuDo
-Try it out yourself: https://cosmicdaily.netlify.app
+
+## Try it out yourself: 
+https://cosmicdaily.netlify.app
 
 ## Inspiration
 As someone who wants to learn more about our universe, I thought a website that teaches us something daily about our universe would be great. I also believe that this website should not only provide information through text, but through images as well to provide a better understanding. 
