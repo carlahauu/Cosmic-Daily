@@ -7,6 +7,8 @@ Demo Video: https://youtu.be/i8_CCLWsuDo
 ## Try it out yourself: 
 https://cosmicdaily.netlify.app
 
+## Honorable Mention at Star Hacks 2024
+
 ## Inspiration
 As someone who wants to learn more about our universe, I thought a website that teaches us something daily about our universe would be great. I also believe that this website should not only provide information through text, but through images as well to provide a better understanding. 
 
