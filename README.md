@@ -2,6 +2,8 @@
 
 ![Cosmic Daily](https://github.com/user-attachments/assets/fdc783be-972c-46d9-899d-7d6733ef9241)
 
+Each day, explore a new photograph or illustration accompanied by detailed explanations provided by professional astronomers.
+
 Demo Video: https://youtu.be/i8_CCLWsuDo
 
 ## Try it out yourself: 
